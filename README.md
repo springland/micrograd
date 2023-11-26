@@ -7,6 +7,11 @@ A tiny Autograd engine (with a bite! :)). Implements backpropagation (reverse-mo
 
 ### Installation
 
+```
+pip install torch
+pip install notebook
+```
+
 ```bash
 pip install micrograd
 ```
